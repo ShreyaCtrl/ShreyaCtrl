@@ -2,23 +2,15 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyaparkar&label=Profile%20Views&color=blueviolet&style=flat-square)
 
+## Hi there! 👋
+
+I'm Shreya Parkar, a passionate developer with a love for creating impactful applications and exploring new technologies. Welcome to my GitHub profile!
+
 ---
 
-## 🚀 About Me
+## About Me
 
-🎯 Passionate about **API Security**, **Machine Learning**, and **Cloud Computing**.
-
-💡 Currently working on **API Kavach** – a security testing and monitoring platform for APIs deployed on AWS.
-
-📚 Constantly exploring **AWS, Python, Boto3, Flask, and Frontend development**.
-
-🏆 Flipkart Grid 6.0 Finalist | Student at Dwarkadas J Sanghvi College of Engineering
-
-🌱 Currently Learning **React, CI/CD, and Advanced AI Models**.
-
-💬 Ask me about **API Security, AWS, and Backend Development**.
-
-📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/shreya-parkar/)**
+Currently, I am a software developer with experience in various technologies. I love tackling complex problems and building innovative solutions. I am open to collaboration and always eager to learn new skills!
 
 ---
 
@@ -43,15 +35,14 @@
 ---
 
 ## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShreyaCtrl&theme=cobalt&hide_border=true&border_radius=3.7)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaparkar&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaparkar&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyaparkar&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShreyaCtrl&theme=tokyonight&hide_border=true&border_radius=3.7)](https://git.io/streak-stats)
 
 ---
 
@@ -61,7 +52,7 @@
 
 ---
 
-## 💬 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-parkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaCtrl)
@@ -69,8 +60,15 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nightwing_19/)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ShreyaParkar)
 
+## ASCII Art
+
+```
+  ____  _                           ____ _        _ 
+ / ___|| |__  _ __ ___ _   _  __ _ / ___| |_ _ __| |
+ \___ \| '_ \| '__/ _ \ | | |/ _` | |   | __| '__| |
+  ___) | | | | | |  __/ |_| | (_| | |___| |_| |  | |
+ |____/|_| |_|_|  \___|\__, |\__,_|\____|\__|_|  |_|
+                       |___/                        
+```
 
 ---
-
-⭐ **If you like what I do, consider giving my repos a star!** ⭐
-
