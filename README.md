@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaparkar&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShreyaCtrl&theme=cobalt&hide_border=true&border_radius=3.7)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaparkar&layout=compact&theme=radical)
 
